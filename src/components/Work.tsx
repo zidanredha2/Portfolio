@@ -8,7 +8,7 @@ const projects = [
     title: "Dice Game",
     category: "React Web App",
     tools: "React, HTML, CSS, JavaScript",
-    image: "/images/Dice.png",
+    image: "/Portfolio/images/Dice.png",
   }
   // {
   //   title: "Radix",
